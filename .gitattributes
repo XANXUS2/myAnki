@@ -1,4 +1,1 @@
-牌组/英语四级/2022「四级词汇乱序版/2022「四级词汇乱序版」.apkg filter=lfs diff=lfs merge=lfs -text
-README.assets filter=lfs diff=lfs merge=lfs -text
-README.md filter=lfs diff=lfs merge=lfs -text
-牌组 filter=lfs diff=lfs merge=lfs -text
+.apkg filter=lfs diff=lfs merge=lfs -text
